@@ -1,0 +1,2 @@
+This is the DBA how to guide.
+It's required reading for DBAs on your site before they touch a real database.
