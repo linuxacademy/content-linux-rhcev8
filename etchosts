@@ -1,0 +1,7 @@
+127.0.0.1	localhost
+::1             localhost
+
+10.0.0.30 Host
+10.0.0.41 WebServer1
+10.0.0.42 DBServer1
+10.0.0.43 AdminServer1
